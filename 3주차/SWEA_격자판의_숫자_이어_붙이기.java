@@ -34,7 +34,7 @@ class Solution {
     //16개의 시작점* 4^6 = 65,536
     private static void dfs(int depth, int num, int x, int y){
         if(depth == 7){
-            if(!set.contains(num)) set.add(num);
+            set.add(num);
             return;
         }
         
