@@ -1,1 +1,3 @@
-# algo_doyeon
+# 알고리즘 스터디
+
+김도연 repo
